@@ -30,7 +30,7 @@ condutores: [{
 
 },{
     nome:"Ana",
-    idade: 45
+    idade: 85
 }],
 
 calcularValorSeguro: function(){
